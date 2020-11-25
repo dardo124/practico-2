@@ -1,0 +1,24 @@
+.miestilo {
+    width: 100px;
+}
+h1 {
+    width: 100%;
+    height: 90px;
+    background-color: khaki;
+    text-align: center;
+    padding-top: 25px;
+}
+table,
+th,
+td {
+    border: 5px solid blue;
+}
+@media (width= 100px)
+{
+    .miestilo{
+        width: 500px;
+        font-family: 'Courier New', Courier, monospace;
+
+    }
+    
+}
